@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "BLEcar",
+			"path": "."
+		},
+		{
+			"name": "240703-155453-arduino-blink",
+			"path": "../240703-155453-arduino-blink"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"myproject.h": "c",
+			"array": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp"
+		}
+	}
+}

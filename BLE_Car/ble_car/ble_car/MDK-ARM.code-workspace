@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/0.96OLED_U8g2/0.96OLED_U8g2/MDK-ARM"
+		},
+		{
+			"name": "1111111111",
+			"path": "D:/LH/esp32/1111111111"
+		},
+		{
+			"name": "BLEcar",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"u8g2.h": "c",
+			"locale": "cpp",
+			"thread": "cpp",
+			"xlocale": "cpp",
+			"xlocmes": "cpp",
+			"xlocmon": "cpp",
+			"xlocnum": "cpp",
+			"xloctime": "cpp"
+		}
+	}
+}
